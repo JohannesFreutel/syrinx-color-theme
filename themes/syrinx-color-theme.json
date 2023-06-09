@@ -1,5 +1,5 @@
 {
-	"name": "nox",
+	"name": "syrinx",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -1417,7 +1417,7 @@
 		  "keyword.operator.assignment"
 		],
 		"settings": {
-		  "foreground": "#67c5d1"
+		  "foreground": "#009faa"
 		}
 	  },
 	  {
