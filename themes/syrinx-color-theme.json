@@ -733,6 +733,13 @@
 		}
 	  },
 	  {
+		"name": "Meta tag",
+		"scope": "punctuation.definition.tag.begin.js.jsx,punctuation.definition.tag.end.js.jsx",
+		"settings": {
+		  "foreground": "#a39f63"
+		}
+	  },
+	  {
 		"name": "Strings",
 		"scope": "string",
 		"settings": {
@@ -778,7 +785,7 @@
 		"name": "Tags",
 		"scope": "entity.name.tag",
 		"settings": {
-		  "foreground": "#85638f"
+		  "foreground": "#a39f63"
 		}
 	  },
 	  {
