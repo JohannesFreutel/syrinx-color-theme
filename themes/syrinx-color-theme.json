@@ -1415,7 +1415,7 @@
 		  "keyword.other.substitution.end"
 		],
 		"settings": {
-		  "foreground": "#888888"
+		  "foreground": "#e5e5e5"
 		}
 	  },
 	  {
@@ -1424,7 +1424,7 @@
 		  "keyword.operator.assignment"
 		],
 		"settings": {
-		  "foreground": "#009faa"
+		  "foreground": "#eee8e5"
 		}
 	  },
 	  {
