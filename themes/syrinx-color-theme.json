@@ -827,7 +827,7 @@
 		"name": "Attribute class",
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
-		  "foreground": "#f0f0f072"
+		  "foreground": "#c2cc41"
 		}
 	  },
 	  {
@@ -1079,6 +1079,13 @@
 		"scope": "support.type.property-name.json",
 		"settings": {
 		  "foreground": "#50CEB5"
+		}
+	  },
+	  {
+		"name": "css Property Name",
+		"scope": "support.type.property-name.css",
+		"settings": {
+		  "foreground": "#f1f1f1"
 		}
 	  },
 	  {
