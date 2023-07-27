@@ -820,7 +820,6 @@
 		"name": "Attribute IDs",
 		"scope": "entity.other.attribute-name.id",
 		"settings": {
-		  "fontStyle": "normal",
 		  "foreground": "#f4b8cc"
 		}
 	  },
@@ -828,7 +827,6 @@
 		"name": "Attribute class",
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
-		  "fontStyle": "normal",
 		  "foreground": "#f0f0f072"
 		}
 	  },
@@ -1234,7 +1232,7 @@
 		"name": "parameter function js/ts",
 		"scope": "function.parameter",
 		"settings": {
-		  "foreground": "#"
+
 		}
 	  },
 	  {
