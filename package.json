@@ -7,11 +7,10 @@
     "url": "https://github.com/JohannesFreutel/syrinx-color-theme.git"
   },
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.78.0"
   },
-  "icon":"icon.png",
   "categories": [
     "Themes"
   ],

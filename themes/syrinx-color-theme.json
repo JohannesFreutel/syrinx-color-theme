@@ -743,7 +743,7 @@
 		"name": "Meta tag",
 		"scope": "punctuation.definition.tag.begin.js.jsx,punctuation.definition.tag.end.js.jsx",
 		"settings": {
-		  "foreground": "#bea87a"
+		  "foreground": "#009faa"
 		}
 	  },
 	  {
@@ -792,23 +792,36 @@
 		"name": "Tags",
 		"scope": "entity.name.tag",
 		"settings": {
-		  "foreground": "#897736"
+		  "foreground": "#009faa"
 		}
 	  },
 	  {
 		"name": "Attributes",
 		"scope": "entity.other.attribute-name",
 		"settings": {
-		  "foreground": "#c9c9eb",
+		  "foreground": "#ededed",
 		}
 	  },
-	  
+	  {
+		"name": "text",
+		"scope": "meta.jsx.children.js.jsx",
+		"settings": {
+		  "foreground": "#158e53",
+		}
+	  },
+	  {
+		"name": "text",
+		"scope": "meta.brace.round.js.jsx",
+		"settings": {
+		  "foreground": "#e2e2e2",
+		}
+	  },
 	  {
 		"name": "Attribute IDs",
 		"scope": "entity.other.attribute-name.id",
 		"settings": {
 		  "fontStyle": "normal",
-		  "foreground": "#f4e1b8"
+		  "foreground": "#f4b8cc"
 		}
 	  },
 	  {
@@ -1861,7 +1874,7 @@
 	],
 	"colors": {
 	  "foreground": "#cccccc",
-	  "focusBorder": "#007fd4",
+	  "focusBorder": "#1b494100",
 	  "selection.background": "#256aa7",
 	  "scrollbar.shadow": "#000000",
 	  "activityBar.foreground": "#ffffff",
@@ -1873,18 +1886,18 @@
 	  "sideBar.foreground": "#ffffff",
 	  "sideBarSectionHeader.background": "#eb000000",
 	  "sideBarSectionHeader.foreground": "#cccccc",
-	  "sideBarSectionHeader.border": "#cccccc33",
+	  "sideBarSectionHeader.border": "#cccccc00",
 	  "sideBarTitle.foreground": "#bbbbbb",
-	  "list.inactiveSelectionBackground": "#363a3f",
+	  "list.inactiveSelectionBackground": "#141c27",
 	  "list.inactiveSelectionForeground": "#e4e4e4",
-	  "list.hoverBackground": "#2c2c35",
-	  "list.hoverForeground": "#cccccc",
-	  "list.activeSelectionBackground": "#094771",
+	  "list.hoverBackground": "#159adc3a",
+	  "list.hoverForeground": "#eef9ff",
+	  "list.activeSelectionBackground": "#0b1d2d",
 	  "list.activeSelectionForeground": "#ffffff",
 	  "tree.indentGuidesStroke": "#585858",
 	  "list.dropBackground": "#383b3d",
 	  "list.highlightForeground": "#0097fb",
-	  "list.focusBackground": "#062f4a",
+	  "list.focusBackground": "#0068ad",
 	  "list.focusForeground": "#cccccc",
 	  "listFilterWidget.background": "#653723",
 	  "listFilterWidget.outline": "#00000000",
