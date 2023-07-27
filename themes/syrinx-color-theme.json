@@ -806,7 +806,7 @@
 		"name": "text",
 		"scope": "meta.jsx.children.js.jsx",
 		"settings": {
-		  "foreground": "#158e53",
+		  "foreground": "#996dbb",
 		}
 	  },
 	  {
