@@ -741,7 +741,7 @@
 	  },
 	  {
 		"name": "Meta tag",
-		"scope": "punctuation.definition.tag.begin.js.jsx,punctuation.definition.tag.end.js.jsx",
+		"scope": "punctuation.definition.tag.begin.js.jsx, punctuation.definition.tag.begin.js,punctuation.definition.tag.end.js,punctuation.definition.tag.end.js.jsx",
 		"settings": {
 		  "foreground": "#009faa"
 		}
@@ -804,14 +804,14 @@
 	  },
 	  {
 		"name": "text",
-		"scope": "meta.jsx.children.js.jsx",
+		"scope": "meta.jsx.children.js.jsx,meta.jsx.children.js",
 		"settings": {
-		  "foreground": "#996dbb",
+		  "foreground": "#6fc11c",
 		}
 	  },
 	  {
 		"name": "text",
-		"scope": "meta.brace.round.js.jsx",
+		"scope": "meta.brace.round.js.jsx, meta.brace.round.js",
 		"settings": {
 		  "foreground": "#e2e2e2",
 		}
