@@ -741,13 +741,20 @@
 	  },
 	  {
 		"name": "Meta tag",
-		"scope": "meta.tag",
+		"scope": "meta.tag,meta.brace.round,meta.embedded.expression",
 		"settings": {
 		  "foreground": "#f0f0f0"
 		}
 	  },
-	  {
+      {
 		"name": "Meta tag",
+		"scope": "meta.jsx.children",
+		"settings": {
+		  "foreground": "#435269" //  b1a169
+		}
+	  },
+	  {
+		"name": "Meta s",
 		"scope": "punctuation.definition.tag.begin.js.jsx, punctuation.definition.tag.begin.js,punctuation.definition.tag.end.js,punctuation.definition.tag.end.js.jsx,punctuation.definition.tag.begin.html,punctuation.definition.tag.end.html",
 		"settings": {
 		  "foreground": "#dadcda"
