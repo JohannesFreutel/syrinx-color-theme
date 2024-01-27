@@ -1141,7 +1141,7 @@
 		"name": "html text",
 		"scope": "text.html.derivative",
 		"settings": {
-		  "foreground": "#457b40"
+		  "foreground": "#435269"
 		}
 	  },
 	  {
